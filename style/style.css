@@ -195,4 +195,7 @@
     .produto button {
         font-size: 18px;
     }
+    .footer {
+        bottom: 5px;
+    }
 }
