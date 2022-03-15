@@ -55,7 +55,6 @@ function template(name, product) {
             </figure>
             <button>X</button>
         </div>
-    
     `;
 }
 
@@ -66,5 +65,4 @@ wrapper.addEventListener('click', function(event) {
         resetInput();
     }
 });
-
 btn.addEventListener('click', submitForm);
